@@ -59,3 +59,7 @@ Data Experience G4
 - Laura Torres
 - Juan Esteban Melo
 - Juan Serrano
+
+> **Nota:** GitHub no puede previsualizar el informe HTML directamente por su tamaño
+> (contiene gráficas incrustadas). Para verlo, descárguelo (botón "Download raw file")
+> y ábralo con su navegador.
